@@ -1,0 +1,8 @@
+name = "upwork-cover-ai"
+main = "src/index.ts"
+compatibility_date = "2025-02-14"
+account_id = "1303c39eb581b7c349639e664805e4ba"
+
+[[kv_namespaces]]
+binding = "UpworkCoverAI_KV"
+id = "05583187e5e64707a9f1308cbdd2e2e8"
